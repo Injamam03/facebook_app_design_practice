@@ -15,6 +15,24 @@ class StorySection extends StatelessWidget {
         children: const [
           StoryCard(isCreateStory: true),
           StoryCard(
+            imagePath: "assets/images/img.png",
+            profileImage: "assets/images/img.png",
+            userName: "Raihan Uddin",
+          ),
+          StoryCard(
+            imagePath: "assets/images/story2.png",
+            profileImage: "assets/images/profile2.png",
+            userName: "Md Fahim Uddin Farhad",
+          ),StoryCard(
+            imagePath: "assets/images/story1.png",
+            profileImage: "assets/images/profile1.png",
+            userName: "Raihan Uddin",
+          ),
+          StoryCard(
+            imagePath: "assets/images/story2.png",
+            profileImage: "assets/images/profile2.png",
+            userName: "Md Fahim Uddin Farhad",
+          ),StoryCard(
             imagePath: "assets/images/story1.png",
             profileImage: "assets/images/profile1.png",
             userName: "Raihan Uddin",

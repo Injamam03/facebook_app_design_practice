@@ -17,7 +17,7 @@ class CreatePostWidget extends StatelessWidget {
         children: [
           CircleAvatar(
             radius: 20.r,
-            backgroundImage: const AssetImage("assets/images/profile.png"),
+            backgroundImage: const AssetImage("assets/images/img.png"),
           ),
           Gap(width: 4,),
           Expanded(
