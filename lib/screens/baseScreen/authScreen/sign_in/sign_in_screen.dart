@@ -1,8 +1,8 @@
+import 'package:facebook_app_design_practice/widgets/custom_text/custom_text.dart';
+import 'package:facebook_app_design_practice/widgets/custom_text_Field/custom_text_Field.dart';
+import 'package:facebook_app_design_practice/widgets/custombutton/custombutton.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:personal_template/widgets/custom_text/custom_text.dart';
-import 'package:personal_template/widgets/custom_text_Field/custom_text_Field.dart';
-import 'package:personal_template/widgets/custombutton/custombutton.dart';
 import '../../../../constant/app_colors.dart';
 import '../../../../constant/app_const_string.dart';
 import '../../../../utils/gap.dart';

@@ -1,5 +1,5 @@
+import 'package:facebook_app_design_practice/routes/app_routes.dart';
 import 'package:get/get.dart';
-import 'package:personal_template/routes/app_routes.dart';
 
 class SplashController extends GetxController {
   void navigateToWelcome() {

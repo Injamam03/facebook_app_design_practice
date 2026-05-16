@@ -1,13 +1,13 @@
+import 'package:facebook_app_design_practice/routes/app_routes.dart';
+import 'package:facebook_app_design_practice/utils/gap.dart';
+import 'package:facebook_app_design_practice/widgets/custom_text/custom_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_navigation/src/extension_navigation.dart';
-import 'package:personal_template/routes/app_routes.dart';
-import 'package:personal_template/widgets/custom_text/custom_text.dart';
 import '../../../../constant/app_assert_image.dart';
 import '../../../../constant/app_colors.dart';
 import '../../../../constant/app_const_string.dart';
-import '../../../../utils/gap.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});

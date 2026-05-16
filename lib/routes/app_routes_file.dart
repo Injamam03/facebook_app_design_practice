@@ -1,8 +1,8 @@
-import 'package:get/get.dart';
-import 'package:personal_template/routes/app_routes.dart';
-import 'package:personal_template/routes/authBindings.dart';
-import 'package:personal_template/screens/baseScreen/authScreen/sign_in/sign_in_screen.dart';
-import 'package:personal_template/screens/baseScreen/splashScreen/splashScreen.dart';
+import 'package:facebook_app_design_practice/routes/app_routes.dart';
+import 'package:facebook_app_design_practice/routes/authBindings.dart';
+import 'package:facebook_app_design_practice/screens/baseScreen/authScreen/sign_in/sign_in_screen.dart';
+import 'package:facebook_app_design_practice/screens/baseScreen/splashScreen/splashScreen.dart';
+import 'package:get/get_navigation/src/routes/get_route.dart';
 
 class AppRoutesFile {
   static final List<GetPage> routes = [

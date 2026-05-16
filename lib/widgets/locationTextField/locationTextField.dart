@@ -1,9 +1,9 @@
+import 'package:facebook_app_design_practice/constant/app_colors.dart';
+import 'package:facebook_app_design_practice/widgets/locationTextField/locationTextFieldController.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
-import 'package:personal_template/constant/app_colors.dart';
-import 'package:personal_template/widgets/locationTextField/locationTextFieldController.dart';
 
 class LocationField extends StatelessWidget {
   final TextEditingController textController;

@@ -1,7 +1,7 @@
+import 'package:facebook_app_design_practice/widgets/custom_text/custom_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
-import 'package:personal_template/widgets/custom_text/custom_text.dart';
 import '../../../../constant/app_colors.dart';
 import '../../../../constant/app_const_string.dart';
 import '../../../../utils/gap.dart';

@@ -1,5 +1,7 @@
-import 'package:get/get.dart';
-import 'package:personal_template/screens/baseScreen/authScreen/sign_in/controller/sign_in_controller.dart';
+import 'package:facebook_app_design_practice/screens/baseScreen/authScreen/sign_in/controller/sign_in_controller.dart';
+import 'package:get/get_core/src/get_main.dart';
+import 'package:get/get_instance/src/bindings_interface.dart';
+import 'package:get/get_instance/src/extension_instance.dart';
 
 class AuthBindings extends Bindings {
   @override

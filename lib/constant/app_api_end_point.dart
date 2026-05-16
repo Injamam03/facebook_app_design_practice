@@ -1,5 +1,5 @@
+import 'package:facebook_app_design_practice/utils/error_log.dart';
 import 'package:flutter/foundation.dart';
-import 'package:personal_template/utils/error_log.dart';
 
 class AppApiEndPoint {
   AppApiEndPoint._privateConstructor();
