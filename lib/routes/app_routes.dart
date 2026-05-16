@@ -2,6 +2,8 @@ class AppRoutes {
   static const String splashScreen = '/splash_screen';
   static const String signInScreen = '/sign_in_screen';
 
+  static const String mainHomeScreen = '/mainHomeScreen';
+
   // Add these missing routes based on your error logs:
   static const String signUpScreen = '/sign_up_screen';
   static const String forgotPasswordScreen = '/forgot_password_screen';

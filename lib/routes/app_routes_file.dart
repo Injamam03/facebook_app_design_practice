@@ -4,9 +4,12 @@ import 'package:facebook_app_design_practice/screens/baseScreen/authScreen/sign_
 import 'package:facebook_app_design_practice/screens/baseScreen/splashScreen/splashScreen.dart';
 import 'package:get/get_navigation/src/routes/get_route.dart';
 
+import '../screens/homeScreen/mainHomeScreen/mainHomeScreen.dart';
+
 class AppRoutesFile {
   static final List<GetPage> routes = [
     GetPage(name: AppRoutes.splashScreen, page: () => const SplashScreen()),
+    GetPage(name: AppRoutes.mainHomeScreen, page: () => const MainHomeScreen(),binding: AuthBindings()),
     GetPage(
       name: AppRoutes.signInScreen,
       page: () => const SignInScreen(),

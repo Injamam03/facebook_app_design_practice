@@ -26,4 +26,18 @@ class ConstString {
   static const String phoneNumber = "Phone Number";
   static const String logIn = "Log In";
   static const String dontHaveAccount = "Don't have an account?   ";
+
+
+
+
+// তোমার Constring class এ এগুলো add করো
+  static const String whatsOnYourMind = "What's on your mind?";
+  static const String createStory = "Create story";
+  static const String facebook = "facebook";
+  static const String hour = "h";
+  static const String like = "Like";
+  static const String comment = "Comment";
+  static const String share = "Share";
+  static const String publicText = "Public";
+
 }
