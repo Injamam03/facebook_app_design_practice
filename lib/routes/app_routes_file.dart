@@ -16,7 +16,9 @@ class AppRoutesFile {
       binding: AuthBindings(),
     ),
 
-    // // Profile pages
+  // Profile pages
+
+
     // GetPage(name: AppRoutes.aboutUsScreen, page: () => const AboutUsScreen()),
     // GetPage(name: AppRoutes.changePasswordScreen, page: () => const ChangePasswordScreen()),
     // GetPage(name: AppRoutes.contactSupportScreen, page: () => const ContactSupportScreen()),

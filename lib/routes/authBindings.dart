@@ -10,10 +10,6 @@ class AuthBindings extends Bindings {
   void dependencies() {
     Get.lazyPut<SignInController>(() => SignInController());
     Get.lazyPut<HomeController>(() => HomeController());
-    // Get.lazyPut<SignUpController>(() => SignUpController());
-    // Get.lazyPut<ForgotPasswordController>(() => ForgotPasswordController());
-    // Get.lazyPut<ForgotVeriyOtpController>(() => ForgotVeriyOtpController());
-    // Get.lazyPut<ResetPasswordController>(() => ResetPasswordController());
-    // Get.lazyPut<SignUpOtpController>(() => SignUpOtpController());
+
   }
 }
